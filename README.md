@@ -1,3 +1,10 @@
+# По наработкам
+Конвертация данных ECO представлена в [Test.ipynb](./Test.ipynb)
+
+Эксперименты с алгоритмами в [comparing_nilm_algorithms.ipynb](./comparing_nilm_algorithms.ipynb)
+
+Далее идет описание используемой библиотеки
+
 # NILMTK: Non-Intrusive Load Monitoring Toolkit
 
 Non-Intrusive Load Monitoring (NILM) is the process of estimating the
@@ -40,5 +47,3 @@ NILMTK includes:
 - a number of [reference benchmark disaggregation algorithms](https://github.com/nilmtk/nilmtk/wiki/NILM-Algorithms)
 - a common set of accuracy metrics
 - and much more!
-
-Конвертация данных ECO представлена в [Test.ipynb](./Test.ipynb). Эксперименты с алгоритмами в [comparing_nilm_algorithms.ipynb](./comparing_nilm_algorithms.ipynb)
